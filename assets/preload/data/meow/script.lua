@@ -4,3 +4,6 @@ function onStartCountdown()
         setProperty('dad.visible', false)
     end
 end
+function onCreate()
+	setPropertyFromClass('GameOverSubstate', 'characterName', 'ski-dead')
+    end
