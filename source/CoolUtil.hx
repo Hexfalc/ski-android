@@ -15,7 +15,7 @@ class CoolUtil
 	public static var difficultyStuff:Array<Dynamic> = [
 		['Normal', ''],
 		['With Voice', '-with-voice'],
-                ['Without Voice', '-without'],
+                ['Without Voice', '-without-voice'],
                 ['What', '-what']
 	];
 
